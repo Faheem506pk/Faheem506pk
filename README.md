@@ -1,8 +1,6 @@
-To make your GitHub profile more visually appealing, I've optimized the layout and added some formatting and style adjustments. Here's a polished version that looks cleaner and enhances readability while highlighting your skills and experience:
 
----
-
-# 🌟 **Muhammad Faheem Iqbal | Web Developer & IoT Enthusiast** 🌟  
+# 🌟 **Muhammad Faheem Iqbal** 🌟  
+# 🌟 **ReactJs / Frontend Web Developer & IoT Enthusiast** 🌟  
 
 Welcome to my GitHub profile! I’m **Muhammad Faheem Iqbal**, a passionate **ReactJS Frontend Developer** and **IoT Innovator** with a **Bachelor’s degree in Information Technology (BS IT)** from the **University of Chakwal (2020–2024)**. I love crafting dynamic, user-friendly web applications and experimenting with IoT devices to build innovative solutions.  
 
