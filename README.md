@@ -11,6 +11,57 @@ Welcome to my GitHub profile! I'm Muhammad Faheem Iqbal, a passionate ReactJS Fr
 </p>
 
 ---
+---
+
+## 🚀 **Projects**  
+### **IoT-Based Greenhouse Farming**  
+![Greenhouse Farming](https://via.placeholder.com/800x400?text=Greenhouse+Farming+Project)  
+- Developed an **IoT monitoring system** for smart greenhouse farming using **ESP32**.  
+- Built a ReactJS web app featuring real-time data visualization (temperature, humidity, soil moisture).  
+- Designed and etched custom PCBs and implemented microcontroller programming in C++.  
+- Successfully deployed the project live on **Plant Pulse**.  
+
+### **Fingerprint-Based Keyless Entry System**  
+![Keyless Entry](https://via.placeholder.com/800x400?text=Keyless+Entry+Project)  
+- Created a secure and innovative keyless entry system using biometric fingerprint technology.  
+
+### **IoT-Based Smart Home System**  
+![Smart Home](https://via.placeholder.com/800x400?text=Smart+Home+System+Project)  
+- Designed a voice-controlled smart home system integrated with a mobile application.  
+
+---
+
+## 💼 **Work Experience**  
+### **ReactJS Frontend Developer** (01/2024 – 03/2024)  
+- Worked with an Austrian client on a dynamic web app (**marketplace.juhuu.app**) using **ReactJS**, enhancing user interactivity and functionality.  
+
+### **Web Developer** (11/2023 – 12/2023)  
+- Designed a responsive static website (**juhuu.app**) using **HTML, CSS, JavaScript** for seamless user experiences.  
+
+### **Social Media Manager** (01/2020 – 06/2024)  
+- Managed social media accounts for **BestMobile.pk**, creating engaging content and animations using Adobe Photoshop and After Effects.  
+
+---
+
+## 🌟 **GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+
+---
+
+## 🌱 **Hobbies and Interests**  
+- **Continuous Learning:** Exploring the latest web development frameworks and technologies.  
+- **IoT Projects:** Building innovative solutions using IoT devices.  
+- **Tech Community:** Contributing to the community through freelance and collaborative projects.  
+
+---
+
+## 📫 **Get in Touch**  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Faheemiqbalm@gmail.com)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)  
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)  
+
+---
 
 <h3 align="left">📬 Connect with me:</h3>
 <p align="left">
@@ -56,3 +107,7 @@ Welcome to my GitHub profile! I'm Muhammad Faheem Iqbal, a passionate ReactJS Fr
 <a href="https://www.buymeacoffee.com/faheem506pk"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="faheem506pk" /></a>
 <a href="https://ko-fi.com/faheem506pk"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="faheem506pk" /></a>
 </p>
+
+---
+
+**Thank you for visiting!** 🚀 
