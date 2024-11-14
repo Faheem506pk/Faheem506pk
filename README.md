@@ -6,13 +6,6 @@ Welcome to my GitHub profile! I’m **Muhammad Faheem Iqbal**, a passionate **Re
 
 ---
 
-## 🌟 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faheem506pk&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faheem506pk&layout=compact&theme=radical)
-
----
-
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -37,6 +30,14 @@ Welcome to my GitHub profile! I’m **Muhammad Faheem Iqbal**, a passionate **Re
 </p>
 
 ---
+
+## 🌟 **GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faheem506pk&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faheem506pk&layout=compact&theme=radical)
+
+---
+
 
 ## 🚀 **Projects**
 
