@@ -48,8 +48,8 @@ Welcome to my GitHub profile! I'm Muhammad Faheem Iqbal, a passionate **ReactJS 
 ---
 
 ## 🌟 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faheem506pk&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faheem506pk&layout=compact&theme=radical)  
 
 ---
 
@@ -62,8 +62,8 @@ Welcome to my GitHub profile! I'm Muhammad Faheem Iqbal, a passionate **ReactJS 
 
 ## 📫 **Get in Touch**  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Faheemiqbalm@gmail.com)  
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)  
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faheem506pk)  
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faheem506pk)  
 
 ---
 
