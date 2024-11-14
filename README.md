@@ -4,6 +4,11 @@
 Welcome to my GitHub profile! I'm Muhammad Faheem Iqbal, a passionate **ReactJS Frontend Developer** and **IoT Innovator** with a Bachelor's degree in Information Technology (BS IT) from the **University of Chakwal (2020–2024)**. I love crafting dynamic and user-friendly web applications and experimenting with IoT devices to build innovative solutions.  
 
 ---
+## 🌟 **GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faheem506pk&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faheem506pk&layout=compact&theme=radical)  
+
+---
 
 ## 🛠️ **Technical Skills**  
 ![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -44,11 +49,7 @@ Welcome to my GitHub profile! I'm Muhammad Faheem Iqbal, a passionate **ReactJS 
 
 ---
 
-## 🌟 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faheem506pk&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faheem506pk&layout=compact&theme=radical)  
 
----
 
 ## 🌱 **Hobbies and Interests**  
 - **Continuous Learning:** Exploring the latest web development frameworks and technologies.  
