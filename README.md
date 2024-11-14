@@ -1,5 +1,5 @@
 # 🌟 Muhammad Faheem Iqbal | Web Developer & IoT Enthusiast 🌟  
-![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)  
+
 
 Welcome to my GitHub profile! I'm Muhammad Faheem Iqbal, a passionate **ReactJS Frontend Developer** and **IoT Innovator** with a Bachelor's degree in Information Technology (BS IT) from the **University of Chakwal (2020–2024)**. I love crafting dynamic and user-friendly web applications and experimenting with IoT devices to build innovative solutions.  
 
@@ -19,18 +19,15 @@ Welcome to my GitHub profile! I'm Muhammad Faheem Iqbal, a passionate **ReactJS 
 
 ## 🚀 **Projects**  
 ### **IoT-Based Greenhouse Farming**  
-![Greenhouse Farming](https://via.placeholder.com/800x400?text=Greenhouse+Farming+Project)  
 - Developed an **IoT monitoring system** for smart greenhouse farming using **ESP32**.  
 - Built a ReactJS web app featuring real-time data visualization (temperature, humidity, soil moisture).  
 - Designed and etched custom PCBs and implemented microcontroller programming in C++.  
 - Successfully deployed the project live on **Plant Pulse**.  
 
 ### **Fingerprint-Based Keyless Entry System**  
-![Keyless Entry](https://via.placeholder.com/800x400?text=Keyless+Entry+Project)  
 - Created a secure and innovative keyless entry system using biometric fingerprint technology.  
 
 ### **IoT-Based Smart Home System**  
-![Smart Home](https://via.placeholder.com/800x400?text=Smart+Home+System+Project)  
 - Designed a voice-controlled smart home system integrated with a mobile application.  
 
 ---
