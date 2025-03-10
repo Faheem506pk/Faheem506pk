@@ -32,9 +32,9 @@ Welcome to my GitHub profile! I’m **Muhammad Faheem Iqbal**, a passionate **Re
 
 ## 🌟 **GitHub Stats**
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faheem506pk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faheem506pk&show_icons=true&theme=radical)  <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=faheem506pk&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faheem506pk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faheem506pk&layout=compact&theme=radical)<br/>
 
 
 
