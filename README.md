@@ -37,19 +37,19 @@ Welcome to my GitHub profile! I’m **Muhammad Faheem Iqbal**, a passionate **Re
 <div align="center">
   <!-- Top Languages -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheem506pk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheem506pk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" />
   </p>
   
   <!-- GitHub Stats and Streak in same row with equal height -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=faheem506pk&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=faheem506pk&theme=dark&hide_border=false" height="170" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=faheem506pk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" height="170" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=faheem506pk&theme=dark&hide_border=false&cache_seconds=1800" height="170" alt="GitHub Streak Stats" />
   </p>
   
   <!-- GitHub Trophies -->
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=faheem506pk&theme=darkhub" alt="GitHub Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=faheem506pk&theme=darkhub&column=7&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
     </a>
   </p>
   
