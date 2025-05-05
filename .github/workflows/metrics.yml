@@ -31,6 +31,6 @@ jobs:
           plugin_languages_limit: 6
           plugin_achievements: no
           plugin_achievements_display: compact
-          plugin_lines: yes
+          plugin_lines: no
           committer_message: "Update metrics [skip ci]"
           committer_token: ${{ secrets.GITHUB_TOKEN }}
