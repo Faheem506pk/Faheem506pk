@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I’m **Muhammad Faheem Iqbal**, a passionate **ReactJS Frontend Developer** and **IoT Innovator** with a **Bachelor’s degree in Information Technology (BS IT)** from the **University of Chakwal (2020–2024)**. I love crafting dynamic, user-friendly web applications and experimenting with IoT devices to build innovative solutions.
 
 ---
-
+<div align="center">
 # 💻 Tech Stack:
 
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I’m **Muhammad Faheem Iqbal**, a passionate **Re
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ---
-
+</div>
 ## 🌟 **GitHub Stats**
 
 # 📊 GitHub Stats:
@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I’m **Muhammad Faheem Iqbal**, a passionate **Re
   
   <!-- GitHub Stats and Streak in same row with equal height -->
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=faheem506pk&theme=dark&hide_border=false&cache_seconds=1800" height="170" alt="GitHub Streak Stats" style="margin: 0 24px 0 0;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=faheem506pk&theme=dark&hide_border=false&cache_seconds=1800" height="170" alt="GitHub Streak Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheem506pk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages"  height="170" />
   </p>
   
