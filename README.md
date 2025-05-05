@@ -1,14 +1,16 @@
+<div align="center">
+
 # **Muhammad Faheem Iqbal**
 
 # ReactJs / Frontend Web Developer & IoT Enthusiast
 
-Welcome to my GitHub profile! I’m **Muhammad Faheem Iqbal**, a passionate **ReactJS Frontend Developer** and **IoT Innovator** with a **Bachelor’s degree in Information Technology (BS IT)** from the **University of Chakwal (2020–2024)**. I love crafting dynamic, user-friendly web applications and experimenting with IoT devices to build innovative solutions.
+Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **ReactJS Frontend Developer** and **IoT Innovator** with a **Bachelor's degree in Information Technology (BS IT)** from the **University of Chakwal (2020–2024)**. I love crafting dynamic, user-friendly web applications and experimenting with IoT devices to build innovative solutions.
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack ⚡
 
-<div align="center">
+<div>
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React" />
 <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS" />
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -31,13 +33,10 @@ Welcome to my GitHub profile! I’m **Muhammad Faheem Iqbal**, a passionate **Re
 </div>
 
 ---
-# 🌟 **GitHub Stats**
 
+# 🌟 **GitHub Stats:**
 
-
-<div align="center">
-  <!-- Top Languages -->
-   <!-- GitHub Metrics -->
+  <!-- GitHub Metrics -->
   <p>
     <img src="https://github.com/faheem506pk/faheem506pk/blob/main/github-metrics.svg" alt="Metrics"  />
   </p>
@@ -68,13 +67,10 @@ Welcome to my GitHub profile! I’m **Muhammad Faheem Iqbal**, a passionate **Re
   </p>
   -->
   
- 
-  
   <!-- GitHub Snake Animation -->
   <p>
     <img src="https://raw.githubusercontent.com/faheem506pk/faheem506pk/output/github-snake-dark.svg" alt="GitHub Snake Dark" />
   </p>
-</div>
 
 ---
 
@@ -123,10 +119,14 @@ Welcome to my GitHub profile! I’m **Muhammad Faheem Iqbal**, a passionate **Re
 
 ## 📫 **Get in Touch**
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Faheemiqbalm@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faheem506pk)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faheem506pk)
+<p>
+<a href="mailto:Faheemiqbalm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" /></a>
+<a href="https://linkedin.com/in/faheem506pk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+<a href="https://github.com/faheem506pk"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge" /></a>
+</p>
 
 ---
 
 **Thank you for visiting!** 🚀
+
+</div>
