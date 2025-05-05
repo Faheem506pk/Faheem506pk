@@ -34,17 +34,44 @@ Welcome to my GitHub profile! I’m **Muhammad Faheem Iqbal**, a passionate **Re
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faheem506pk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faheem506pk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=faheem506pk&theme=dark&hide_border=false)<br/>
-
-<!-- [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faheem506pk&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/> -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=faheem506pk&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)<br/>
-![GitHub Snake Dark](https://raw.githubusercontent.com/faheem506pk/faheem506pk/output/github-snake-dark.svg)
-<br/>
-![Metrics](https://github.com/faheem506pk/faheem506pk/blob/main/github-metrics.svg)
-<br/>
+<div align="center">
+  <!-- Top Languages -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheem506pk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  </p>
+  
+  <!-- GitHub Stats and Streak in same row with equal height -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=faheem506pk&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=faheem506pk&theme=dark&hide_border=false" height="170" alt="GitHub Streak Stats" />
+  </p>
+  
+  <!-- GitHub Trophies -->
+  <p>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=faheem506pk&theme=darkhub" alt="GitHub Trophies" />
+    </a>
+  </p>
+  
+  <!-- Commented out Activity Graph -->
+  <!-- 
+  <p>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=faheem506pk&theme=github-dark" alt="GitHub Activity Graph" />
+    </a>
+  </p>
+  -->
+  
+  <!-- GitHub Metrics -->
+  <p>
+    <img src="https://github.com/faheem506pk/faheem506pk/blob/main/github-metrics.svg" alt="Metrics" />
+  </p>
+  
+  <!-- GitHub Snake Animation -->
+  <p>
+    <img src="https://raw.githubusercontent.com/faheem506pk/faheem506pk/output/github-snake-dark.svg" alt="GitHub Snake Dark" />
+  </p>
+</div>
 
 ---
 
