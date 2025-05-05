@@ -79,9 +79,12 @@ Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **Reac
 
 ### **Associate Software Engineer** at MicroMerger (02/2025 – Present)
 
-- Developed and launched **Speedy Eats**, a fully dynamic WordPress website with custom content management
-- Implementing modern web development practices and solutions for client projects
-- Working with WordPress custom development and dynamic content management systems
+-  Developed and launched **Speedy Eats**, a dynamic WordPress website with custom content management and advanced features
+-  Collaborating with cross-functional teams to create modern, responsive, and high-performance web applications with a focus on **WordPress** development, **ReactJS** for frontend, and **NuxtJS** for views
+- Leading the implementation of **custom WordPress themes** and **plugins**, ensuring seamless integration with headless CMS architectures
+-  Designing and developing interactive dashboards and data visualization tools using **ReactJS** and **NuxtJS**
+-  Ensuring efficient, scalable development practices and delivering high-quality, enterprise-grade solutions within scope and timelines
+-  Emphasizing **performance optimization** and **user experience** in every phase of development, from UI design to deployment
 
 ### **ReactJS Frontend Developer** at Alphabase.co (Internship) (11/2024 – 01/2025)
 
@@ -194,3 +197,7 @@ All projects are licensed under the MIT License unless stated otherwise.
 **Thank you for visiting!** 🚀
 
 </div>
+
+
+
+
