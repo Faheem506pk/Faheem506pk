@@ -31,9 +31,9 @@ Welcome to my GitHub profile! I’m **Muhammad Faheem Iqbal**, a passionate **Re
 </div>
 
 ---
-## 🌟 **GitHub Stats**
+# 🌟 **GitHub Stats**
 
-# 📊 GitHub Stats:
+
 
 <div align="center">
   <!-- Top Languages -->
