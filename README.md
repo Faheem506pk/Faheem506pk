@@ -43,9 +43,7 @@ Welcome to my GitHub profile! I’m **Muhammad Faheem Iqbal**, a passionate **Re
 ![GitHub Snake](https://raw.githubusercontent.com/faheem506pk/faheem506pk/output/github-contribution-grid-snake.svg)
 <br/>
 ![Metrics](https://github.com/faheem506pk/faheem506pk/blob/main/github-metrics.svg)
-<img src="https://github.com/faheem506pk/faheem506pk/blob/main/github-metrics.svg" alt="">
 <br/>
-
 ---
 
 ## 🚀 **Projects**
