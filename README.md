@@ -8,8 +8,6 @@ Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **Reac
 
 <div align="center">
 
-# **GitHub Stats**
-
 <div/>
 
   <p>
