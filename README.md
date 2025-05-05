@@ -39,9 +39,10 @@ Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **Reac
 </div>
    <!-- GitHub Metrics -->
   <p>
-    <img src="https://github.com/faheem506pk/faheem506pk/blob/main/github-metrics.svg" alt="Metrics" style="width: 50%;"/>
+    <img src="https://github.com/faheem506pk/faheem506pk/blob/main/github-metrics.svg" alt="Metrics" />
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=faheem506pk&theme=darkhub&column=7&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" style="width: 50%;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheem506pk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages"  height="170" />
+      <img src="https://github-profile-trophy.vercel.app/?username=faheem506pk&theme=darkhub&column=7&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"  />
     </a>
   </p>
 
@@ -49,12 +50,13 @@ Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **Reac
   
   <!-- GitHub Stats and Streak in same row with equal height -->
   <p style="display: flex; justify-content: space-between;">
+   <img src="https://github-readme-stats.vercel.app/api?username=faheem506pk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="170"  />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=faheem506pk&theme=dark&hide_border=false&cache_seconds=1800" height="170" alt="GitHub Streak Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheem506pk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages"  height="170" />
+  
   </p>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=faheem506pk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+   
   </p>
 
   <!-- GitHub Trophies -->
