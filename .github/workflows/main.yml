@@ -13,11 +13,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
-      - name: Generate Metrics
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        
+      - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
           filename: github-metrics.svg
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Karachi
@@ -28,14 +31,19 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_lines: yes
+          committer_message: "Update metrics [skip ci]"
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
 
   snake:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
-      - name: Generate Snake Animation
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -43,11 +51,13 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-      
-      - name: Push Snake Animation
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update snake animation [skip ci]"
