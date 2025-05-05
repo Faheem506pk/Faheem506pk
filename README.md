@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I’m **Muhammad Faheem Iqbal**, a passionate **Re
 <div align="center">
   <!-- Top Languages -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheem506pk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheem506pk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" height="170" width="100%"/>
   </p>
   
   <!-- GitHub Stats and Streak in same row with equal height -->
