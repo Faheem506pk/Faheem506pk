@@ -39,20 +39,22 @@ Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **Reac
 
  
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=faheem506pk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-  </p>
+  
   
   <!-- GitHub Stats and Streak in same row with equal height -->
   <p style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=faheem506pk&theme=dark&hide_border=false&cache_seconds=1800" height="170" alt="GitHub Streak Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheem506pk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages"  height="170" />
   </p>
-  
-   <!-- GitHub Metrics -->
+
   <p>
-    <img src="https://github.com/faheem506pk/faheem506pk/blob/main/github-metrics.svg" alt="Metrics"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=faheem506pk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
   </p>
+
+   <!-- GitHub Metrics -->
+  <!-- <p>
+    <img src="https://github.com/faheem506pk/faheem506pk/blob/main/github-metrics.svg" alt="Metrics"  />
+  </p> -->
   <!-- GitHub Trophies -->
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
