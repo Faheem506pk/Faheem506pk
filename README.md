@@ -73,6 +73,7 @@ Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **Reac
   </p>
 
 ---
+</div>
 
 ## 🚀 **Projects**
 
@@ -116,6 +117,7 @@ Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **Reac
 - **Tech Community:** Contributing to the community through freelance and collaborative projects.
 
 ---
+<div align="center">
 
 ## 📫 **Get in Touch**
 
