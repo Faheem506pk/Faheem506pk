@@ -5,14 +5,21 @@
 Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **ReactJS Frontend Developer** and **IoT Innovator** with a **Bachelor's degree in Information Technology (BS IT)** from the **University of Chakwal (2020–2024)**. I love crafting dynamic, user-friendly web applications and experimenting with IoT devices to build innovative solutions.
 
 ---
+
+<div align="center">
+
 # 🌟 **GitHub Stats:**
+
+<div/>
 
   <p>
     <img src="https://github.com/faheem506pk/faheem506pk/blob/main/github-metrics.svg" alt="Metrics" />
       
    
   </p>
+
 ---
+
 <div align="center">
   <!-- GitHub Metrics -->
 
@@ -44,7 +51,6 @@ Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **Reac
 
 # 🌟 **GitHub Stats:**
 
- 
  <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=faheem506pk&theme=dark&hide_border=false&cache_seconds=1800" height="170" alt="GitHub Streak Stats" height="170"/>
  </p>
@@ -56,20 +62,6 @@ Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **Reac
     
   
   </p>
-
-  <!-- GitHub Trophies -->
-  <!-- <p>
-    
-  </p> -->
-
-  <!-- Commented out Activity Graph -->
-  <!-- 
-  <p>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=faheem506pk&theme=github-dark" alt="GitHub Activity Graph" />
-    </a>
-  </p>
-  -->
 
   <!-- GitHub Snake Animation -->
   <p>
