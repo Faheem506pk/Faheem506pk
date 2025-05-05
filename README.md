@@ -39,9 +39,9 @@ Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **Reac
 </div>
    <!-- GitHub Metrics -->
   <p>
-    <img src="https://github.com/faheem506pk/faheem506pk/blob/main/github-metrics.svg" alt="Metrics"  />
+    <img src="https://github.com/faheem506pk/faheem506pk/blob/main/github-metrics.svg" alt="Metrics" style="width: 50%;"/>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=faheem506pk&theme=darkhub&column=7&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=faheem506pk&theme=darkhub&column=7&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" style="width: 50%;" />
     </a>
   </p>
 
