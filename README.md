@@ -7,6 +7,12 @@ Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **Reac
 ---
 
 <div align="center">
+  <!-- GitHub Metrics -->
+  <p>
+    <img src="https://github.com/faheem506pk/faheem506pk/blob/main/github-metrics.svg" alt="Metrics" />
+      
+   
+  </p>
 
 ## 💻 Tech Stack ⚡
 
@@ -36,12 +42,7 @@ Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **Reac
 
 # 🌟 **GitHub Stats:**
 
-   <!-- GitHub Metrics -->
-  <p>
-    <img src="https://github.com/faheem506pk/faheem506pk/blob/main/github-metrics.svg" alt="Metrics" />
-      
-   
-  </p>
+ 
  <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=faheem506pk&theme=dark&hide_border=false&cache_seconds=1800" height="170" alt="GitHub Streak Stats" height="170"/>
  </p>
