@@ -52,9 +52,9 @@ Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **Reac
   </p>
 
    <!-- GitHub Metrics -->
-  <!-- <p>
+  <p>
     <img src="https://github.com/faheem506pk/faheem506pk/blob/main/github-metrics.svg" alt="Metrics"  />
-  </p> -->
+  </p>
   <!-- GitHub Trophies -->
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">

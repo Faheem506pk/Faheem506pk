@@ -24,10 +24,7 @@ jobs:
           filename: github-metrics.svg
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Karachi
-          
-          plugin_languages: yes
-          plugin_languages_ignored: html
-          plugin_languages_limit: 6
+       
         
           committer_message: "Update metrics [skip ci]"
           committer_token: ${{ secrets.GITHUB_TOKEN }}
