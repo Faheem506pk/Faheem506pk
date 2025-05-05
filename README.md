@@ -40,7 +40,9 @@ Welcome to my GitHub profile! I’m **Muhammad Faheem Iqbal**, a passionate **Re
 <!-- [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faheem506pk&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/> -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=faheem506pk&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)<br/>
 
-![GitHub Snake](https://raw.githubusercontent.com/faheem506pk/faheem506pk/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/faheem506pk/faheem506pk/output/github-snake.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/faheem506pk/faheem506pk/output/github-snake-dark.svg)
+![GitHub Snake GIF](https://raw.githubusercontent.com/faheem506pk/faheem506pk/output/ocean.gif)
 <br/>
 ![Metrics](https://github.com/faheem506pk/faheem506pk/blob/main/github-metrics.svg)
 <br/>
