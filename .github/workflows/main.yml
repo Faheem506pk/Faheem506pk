@@ -24,7 +24,7 @@ jobs:
           filename: github-metrics.svg
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Karachi
-          plugin_isocalendar: yes
+          
           plugin_languages: yes
           plugin_languages_ignored: html
           plugin_languages_limit: 6
