@@ -38,11 +38,11 @@ Welcome to my GitHub profile! I’m **Muhammad Faheem Iqbal**, a passionate **Re
   <!-- Top Languages -->
    <!-- GitHub Metrics -->
   <p>
-    <img src="https://github.com/faheem506pk/faheem506pk/blob/main/github-metrics.svg" alt="Metrics" style="width: 100%;" />
+    <img src="https://github.com/faheem506pk/faheem506pk/blob/main/github-metrics.svg" alt="Metrics"  />
   </p>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=faheem506pk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=faheem506pk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" style="width: 100%;" />
   </p>
   
   <!-- GitHub Stats and Streak in same row with equal height -->
