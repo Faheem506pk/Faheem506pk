@@ -1,5 +1,3 @@
-
-
 # **Muhammad Faheem Iqbal**
 
 # ReactJs / Frontend Web Developer & IoT Enthusiast
@@ -7,6 +5,7 @@
 Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **ReactJS Frontend Developer** and **IoT Innovator** with a **Bachelor's degree in Information Technology (BS IT)** from the **University of Chakwal (2020–2024)**. I love crafting dynamic, user-friendly web applications and experimenting with IoT devices to build innovative solutions.
 
 ---
+
 <div align="center">
 
 ## 💻 Tech Stack ⚡
@@ -37,9 +36,13 @@ Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **Reac
 
 # 🌟 **GitHub Stats:**
 
- 
+</div>
+   <!-- GitHub Metrics -->
+  <p>
+    <img src="https://github.com/faheem506pk/faheem506pk/blob/main/github-metrics.svg" alt="Metrics"  />
+  </p>
 
-  
+  <div align="center">
   
   <!-- GitHub Stats and Streak in same row with equal height -->
   <p style="display: flex; justify-content: space-between;">
@@ -51,10 +54,6 @@ Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **Reac
     <img src="https://github-readme-stats.vercel.app/api?username=faheem506pk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
   </p>
 
-   <!-- GitHub Metrics -->
-  <p>
-    <img src="https://github.com/faheem506pk/faheem506pk/blob/main/github-metrics.svg" alt="Metrics"  />
-  </p>
   <!-- GitHub Trophies -->
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -77,6 +76,7 @@ Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **Reac
   </p>
 
 ---
+
 </div>
 
 ## 🚀 **Projects**
@@ -121,6 +121,7 @@ Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **Reac
 - **Tech Community:** Contributing to the community through freelance and collaborative projects.
 
 ---
+
 <div align="center">
 
 ## 📫 **Get in Touch**
