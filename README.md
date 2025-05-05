@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m **Muhammad Faheem Iqbal**, a passionate **Re
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <div align="center">
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React" />
