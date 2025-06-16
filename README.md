@@ -151,7 +151,6 @@ A web application designed to manage and display a variety of tour packages. Thi
 
 - **Technologies**: HTML, CSS, Bootstrap 5, PHP, MySQL
 - **Features**: Admin login panel, package management system, responsive design
-- **Live Demo**: [explorepak.free.nf](http://explorepak.free.nf)
 
 
 ## 🔭 **Current Learning Focus**
