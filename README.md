@@ -95,8 +95,8 @@ Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **Reac
 
 ### **ReactJS Frontend Developer** (01/2024 – 03/2024)
 
-- Worked with an Austrian client on a dynamic web app (**marketplace-juhuu-app.vercel.app**) using **ReactJS**, enhancing user interactivity and functionality
-- **Live Demo**: [marketplace-juhuu-app.vercel.app](https://marketplace-juhuu-app.vercel.app/)
+- Worked with an Austrian client on a dynamic web app (**marketplace-juhuu**) using **ReactJS**, enhancing user interactivity and functionality
+
 
 ### **Web Developer** (11/2023 – 12/2023)
 
