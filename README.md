@@ -109,7 +109,43 @@ Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **Reac
 
 ## 🚀 **Recent Projects**
 
-### 1. [**ExplorePak**](https://github.com/Faheem506pk/ExplorePak)
+
+### 1. [**Notion Table Clone**](https://github.com/Faheem506pk/notion_table_clone)
+
+A sleek and powerful Notion-inspired database table clone built with **React**, **TypeScript**, and **Vite**. It supports dynamic table functionalities such as adding/editing rows and columns, drag-and-drop reordering, customizable data types, and theme support.
+
+- **Technologies**: React, TypeScript, Vite, Chakra UI
+- **Live Demo**: [qotion.vercel.app](https://qotion.vercel.app)
+
+### 2. [**My KaTable App**](https://github.com/Faheem506pk/my-katable-app)
+
+A dynamic and customizable table application featuring editable columns, column renaming, column deletion, adding new rows and columns, and persistent data storage using `localStorage`. Built with **React**, **TypeScript**, and **KaTable**.
+
+- **Technologies**: React, TypeScript, KaTable, Material UI
+- **Live Demo**: [iotion.vercel.app](https://iotion.vercel.app)
+
+### 3. [**StitchSmart - Tailor Shop Management System**](https://github.com/Faheem506pk/stitch-smart-admin-panel)
+
+A feature-rich admin panel for managing a tailor shop. It supports role-based user management, customer and order tracking, payment recording, measurement templates, analytics dashboard, offline support, and integration with WhatsApp.
+
+- **Technologies**: React, TypeScript, Tailwind CSS, Firebase, Zustand, IndexedDB
+- **Live Demo**: [stitchsmart.vercel.app](https://stitchsmart.vercel.app)
+
+### 4. [**Cinematic Vistas**](https://github.com/Faheem506pk/InternIntelligence_cinematic_vistas)
+
+A modern movie browsing platform with responsive design, search functionality, and dynamic content.
+
+- **Technologies**: React, TypeScript, Tailwind CSS
+- **Live Demo**: [cinematic-vistas.vercel.app](https://cinematic-vistas.vercel.app)
+
+### 5. [**PlantPulse - IoT Greenhouse System**](https://github.com/Faheem506pk/PlantPulse)
+
+An IoT-based greenhouse system built with **ESP32**, **React Dashboard**, and **Firebase**. The system monitors plant health and environment with real-time data visualization and management.
+
+- **Technologies**: ESP32, React, Firebase
+- **Live Demo**: [plantpulse.vercel.app](https://plantpulse.vercel.app)
+
+### 6. [**ExplorePak**](https://github.com/Faheem506pk/ExplorePak)
 
 A web application designed to manage and display a variety of tour packages. This project allows admin users to manage packages, including details such as name, location, description, price range, and images.
 
@@ -117,40 +153,6 @@ A web application designed to manage and display a variety of tour packages. Thi
 - **Features**: Admin login panel, package management system, responsive design
 - **Live Demo**: [explorepak.free.nf](http://explorepak.free.nf)
 
-### 2. [**Notion Table Clone**](https://github.com/Faheem506pk/notion_table_clone)
-
-A sleek and powerful Notion-inspired database table clone built with **React**, **TypeScript**, and **Vite**. It supports dynamic table functionalities such as adding/editing rows and columns, drag-and-drop reordering, customizable data types, and theme support.
-
-- **Technologies**: React, TypeScript, Vite, Chakra UI
-- **Live Demo**: [qotion.vercel.app](https://qotion.vercel.app)
-
-### 3. [**My KaTable App**](https://github.com/Faheem506pk/my-katable-app)
-
-A dynamic and customizable table application featuring editable columns, column renaming, column deletion, adding new rows and columns, and persistent data storage using `localStorage`. Built with **React**, **TypeScript**, and **KaTable**.
-
-- **Technologies**: React, TypeScript, KaTable, Material UI
-- **Live Demo**: [iotion.vercel.app](https://iotion.vercel.app)
-
-### 4. [**StitchSmart - Tailor Shop Management System**](https://github.com/Faheem506pk/stitch-smart-admin-panel)
-
-A feature-rich admin panel for managing a tailor shop. It supports role-based user management, customer and order tracking, payment recording, measurement templates, analytics dashboard, offline support, and integration with WhatsApp.
-
-- **Technologies**: React, TypeScript, Tailwind CSS, Firebase, Zustand, IndexedDB
-- **Live Demo**: [stitchsmart.vercel.app](https://stitchsmart.vercel.app)
-
-### 5. [**Cinematic Vistas**](https://github.com/Faheem506pk/InternIntelligence_cinematic_vistas)
-
-A modern movie browsing platform with responsive design, search functionality, and dynamic content.
-
-- **Technologies**: React, TypeScript, Tailwind CSS
-- **Live Demo**: [cinematic-vistas.vercel.app](https://cinematic-vistas.vercel.app)
-
-### 6. [**PlantPulse - IoT Greenhouse System**](https://github.com/Faheem506pk/PlantPulse)
-
-An IoT-based greenhouse system built with **ESP32**, **React Dashboard**, and **Firebase**. The system monitors plant health and environment with real-time data visualization and management.
-
-- **Technologies**: ESP32, React, Firebase
-- **Live Demo**: [plantpulse.vercel.app](https://plantpulse.vercel.app)
 
 ## 🔭 **Current Learning Focus**
 
