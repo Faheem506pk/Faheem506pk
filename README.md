@@ -6,6 +6,7 @@
 
 Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **ReactJS Developer** with experience in modern web development. I hold a **Bachelor's degree in Information Technology (BS IT)** from the **University of Chakwal (2020–2024)**. I love crafting dynamic, user-friendly web applications and am actively expanding my skill set as a Full Stack Developer.
 
+
 ## About Me
 
 - **Location**: Chakwal, Punjab, Pakistan
