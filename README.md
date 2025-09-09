@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **Reac
 
 - **Location**: Chakwal, Punjab, Pakistan
 - **Education**: Bachelor's in Information Technology (BS IT) from the University of Chakwal, 2024
-- **Current Role**: Associate Software Engineer at MicroMerger
+- **Current Role**: Associate Software Engineer at Novateus
 - **Primary Focus**: Web Development with ReactJS and modern JavaScript frameworks
 - **Currently Learning**: Next.js, MERN Stack, Python for Full Stack Development
 - **GitHub**: [faheem506pk](https://github.com/Faheem506pk)
@@ -78,7 +78,7 @@ Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **Reac
 
 ## 💼 **Professional Experience**
 
-### **Associate Software Engineer** at MicroMerger (02/2025 – Present)
+### **Associate Software Engineer** at Novateus (02/2025 – Present)
 
 -  Developed and launched **Speedy Eats**, a dynamic WordPress website with custom content management and advanced features
 -  Collaborating with cross-functional teams to create modern, responsive, and high-performance web applications with a focus on **WordPress** development, **ReactJS** for frontend, and **NuxtJS** for views
