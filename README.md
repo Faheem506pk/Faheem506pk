@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **Reac
 - **Primary Focus**: Web Development with ReactJS and modern JavaScript frameworks
 - **Currently Learning**: Next.js, MERN Stack, Python for Full Stack Development
 - **GitHub**: [faheem506pk](https://github.com/Faheem506pk)
-<!-- - **LinkedIn**: [faheem506pk](https://linkedin.com/in/faheem506pk) -->
 - **Email**: [faheemiqbalm@gmail.com](mailto:faheemiqbalm@gmail.com)
+- <!-- - **LinkedIn**: [faheem506pk](https://linkedin.com/in/faheem506pk) -->
 
 ---
 
