@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm **Muhammad Faheem Iqbal**, a passionate **Reac
 - **Currently Learning**: Next.js, MERN Stack, Python for Full Stack Development
 - **GitHub**: [faheem506pk](https://github.com/Faheem506pk)
 - **Email**: [faheemiqbalm@gmail.com](mailto:faheemiqbalm@gmail.com)
- <!-- - **LinkedIn**: [faheem506pk](https://linkedin.com/in/faheem506pk) -->
 
 ---
 
@@ -186,7 +185,7 @@ I'm currently expanding my skill set as a Full Stack Developer by:
 
 <p>
 <a href="mailto:Faheemiqbalm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" /></a>
-<!-- <a href="https://linkedin.com/in/faheem506pk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a> -->
+
 <a href="https://github.com/faheem506pk"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge" /></a>
 </p>
 
