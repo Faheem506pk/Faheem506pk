@@ -160,8 +160,7 @@ def stat_row(y, label, value, color=TEXT):
 def write_stats_card(repos, contributions):
     stars = sum(repo.get("stargazers_count", 0) for repo in repos)
     forks = sum(repo.get("forks_count", 0) for repo in repos)
-    private_repos = sum(1 for repo in repos if repo.get("private"))
-    public_repos = len(repos) - private_repos
+    public_repos = sum(1 for repo in repos if not repo.get("private"))
     language_count = len({repo.get("language") for repo in repos if repo.get("language")})
     updated_at = dt.datetime.now().strftime("%d %b %Y %H:%M")
     year = contributions.get("year", dt.datetime.now().year)
@@ -176,7 +175,7 @@ def write_stats_card(repos, contributions):
   {text(24, 58, f"Updated {updated_at}", 11, MUTED)}
   {stat_row(88, "Total Stars", format_number(stars), YELLOW)}
   {stat_row(112, "Forks", format_number(forks), GREEN)}
-  {stat_row(136, "Repositories", f"{len(repos)} total / {public_repos} public / {private_repos} private", TEXT)}
+  {stat_row(136, "Public Repositories", format_number(public_repos), TEXT)}
   {stat_row(160, f"{year} Contributions", format_number(contribution_value) if isinstance(contribution_value, int) else contribution_value, BLUE)}
   {stat_row(184, "Private Contributions", format_number(private_count), PURPLE)}
   {stat_row(208, "Languages Detected", format_number(language_count), ORANGE)}
