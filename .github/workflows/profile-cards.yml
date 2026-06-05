@@ -23,8 +23,12 @@ jobs:
         env:
           GITHUB_USERNAME: ${{ github.repository_owner }}
           METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
-          GITHUB_TOKEN: ${{ github.token }}
-        run: python3 scripts/generate_profile_cards.py
+        run: |
+          if [ -z "$METRICS_TOKEN" ]; then
+            echo "METRICS_TOKEN secret is required for private profile card data."
+            exit 1
+          fi
+          python3 scripts/generate_profile_cards.py
 
       - name: Commit Generated Cards
         run: |
