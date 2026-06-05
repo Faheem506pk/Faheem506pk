@@ -1,0 +1,35 @@
+name: Custom Profile Cards
+
+on:
+  schedule:
+    - cron: "10 0 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: custom-profile-cards-main
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Custom Profile Cards
+        env:
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/generate_profile_cards.py
+
+      - name: Commit Generated Cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-stats.svg profile-languages.svg
+          git diff --cached --quiet || git commit -m "Update custom profile cards [skip ci]"
+          git push

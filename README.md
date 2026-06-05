@@ -76,8 +76,8 @@ I hold a **Bachelor's degree in Information Technology (BS IT)** and continuousl
  </p>
 
   <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faheem506pk&theme=github_dark" alt="GitHub Stats" height="170" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faheem506pk&theme=github_dark" alt="Top Languages" height="170" />
+    <img src="https://github.com/faheem506pk/faheem506pk/blob/main/profile-stats.svg" alt="Custom GitHub Stats" height="170" />
+    <img src="https://github.com/faheem506pk/faheem506pk/blob/main/profile-languages.svg" alt="Custom Top Languages" height="170" />
   </p>
 
   <!-- GitHub Snake Animation -->
@@ -199,6 +199,5 @@ All projects are licensed under the MIT License unless stated otherwise.
 **Thank you for visiting!** 🚀
 
 </div>
-
 
 
