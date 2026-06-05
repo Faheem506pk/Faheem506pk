@@ -76,8 +76,8 @@ I hold a **Bachelor's degree in Information Technology (BS IT)** and continuousl
  </p>
 
   <p>
-    <img src="https://raw.githubusercontent.com/faheem506pk/faheem506pk/main/profile-stats.svg?v=2" alt="Custom GitHub Stats" height="170" />
-    <img src="https://raw.githubusercontent.com/faheem506pk/faheem506pk/main/profile-languages.svg?v=2" alt="Custom Top Languages" height="170" />
+    <img src="./profile-stats.svg" alt="Custom GitHub Stats" height="170" />
+    <img src="./profile-languages.svg" alt="Custom Top Languages" height="170" />
   </p>
 
   <!-- GitHub Snake Animation -->
