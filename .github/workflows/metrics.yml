@@ -1,22 +1,26 @@
 name: GitHub Metrics
 
 on:
-  schedule: 
-    - cron: "0 0 * * *"  # Runs once every day at midnight
-  push: 
+  schedule:
+    - cron: "0 0 * * *"
+  push:
     branches: ["main"]
   workflow_dispatch:
+
+concurrency:
+  group: github-metrics-main
+  cancel-in-progress: true
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      
+
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
-        
+        uses: actions/checkout@v4
+
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -25,7 +29,5 @@ jobs:
           filename: github-metrics.svg
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Karachi
-          
-         
           committer_message: "Update metrics [skip ci]"
           committer_token: ${{ secrets.GITHUB_TOKEN }}

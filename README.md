@@ -75,10 +75,9 @@ I hold a **Bachelor's degree in Information Technology (BS IT)** and continuousl
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=faheem506pk&theme=dark&hide_border=false&cache_seconds=1800" height="170" alt="GitHub Streak Stats" height="170"/>
  </p>
 
-  <!-- GitHub Stats and Streak in same row with equal height -->
-  <p style="display: flex; justify-content: space-between;">
-   <img src="https://github-readme-stats.vercel.app/api?username=faheem506pk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="170"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheem506pk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages"  height="170" />
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faheem506pk&theme=github_dark" alt="GitHub Stats" height="170" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faheem506pk&theme=github_dark" alt="Top Languages" height="170" />
   </p>
 
   <!-- GitHub Snake Animation -->
@@ -200,7 +199,6 @@ All projects are licensed under the MIT License unless stated otherwise.
 **Thank you for visiting!** 🚀
 
 </div>
-
 
 
 
