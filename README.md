@@ -190,6 +190,7 @@ I'm currently expanding my expertise in:
 <a href="https://github.com/faheem506pk"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge" /></a>
 </p>
 
+
 ## License
 
 All projects are licensed under the MIT License unless stated otherwise.
