@@ -153,6 +153,13 @@ A bike rental platform developed for JUHUU GmbH with product listing, booking wo
 
 - Technologies: ReactJS, Tailwind CSS, JavaScript
 
+### 10. CupChase
+
+A modern, high-performance web application built with a robust tech stack, featuring responsive UI components and smooth routing.
+
+- **Technologies**: React, TanStack Router, Tailwind CSS, Vite, TypeScript
+- **Live Demo**: [cupchase.vercel.app](https://cupchase.vercel.app/)
+
 
 ## 🔭 Current Learning Focus
 
